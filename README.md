@@ -11,6 +11,6 @@
     <th>Characters Success</th>
   </tr>
   <tr>
-    <td><img src = "screenshots/home_screen.png" width=240/></td>
+    <td><img src = "InstagramUI/screenshots/home_screen.png" width=240/></td>
   </tr>
 </table>
